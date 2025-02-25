@@ -95,7 +95,8 @@ from typing import Annotated
 To run the blog generator, execute the notebook `Blog_Generation_Agent.ipynb`. Modify the prompts and agent logic as needed.
 
 ## 📷 Visual Representation
-![LangChain Workflow](https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/assets/langchain.svg)
+![image](https://github.com/user-attachments/assets/c4709be1-2158-46bd-9cbe-54e828fccf65)
+
 
 ## 📜 License
 This project is licensed under the MIT License.
